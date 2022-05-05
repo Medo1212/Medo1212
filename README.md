@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,PHP,SQL,JS(ES5),Jquery**
 
-- 📫 How to reach me **mohamed@mohamedmaged.com**
+- 📫 How to reach me <a href="www.mohamedmaged.com/#about" target="blank">www.mohamedmaged.com</a>
 
-- 📄 Know about my experiences [www.mohamedmaged.com/#about](../../../www.mohamedmaged.com/#about)
+- 📄 Know about my experiences <a href="www.mohamedmaged.com/#about" target="blank">www.mohamedmaged.com/#about</a>
 
 - ⚡ Fun fact **I can make you laugh until you die**
 
