@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Laravel,React,JS(ES6),OOP**
 
-- 👨‍💻 All of my projects are available at [www.mohamedmaged.com](www.mohamedmaged.com)
+- 👨‍💻 All of my projects are available at **www.mohamedmaged.com**
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,PHP,SQL,JS(ES5),Jquery**
 
-- 📫 How to reach me <a href="www.mohamedmaged.com/#about" target="blank">www.mohamedmaged.com</a>
+- 📫 How to reach me **mohamed@mohamedmaged.com**
 
-- 📄 Know about my experiences <a href="www.mohamedmaged.com/#about" target="blank">www.mohamedmaged.com/#about</a>
+- 📄 Know about my experiences **www.mohamedmaged.com/#about**
 
-- ⚡ Fun fact **I can make you laugh until you die**
+- ⚡ Fun fact **I can make you laugh until you die 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
