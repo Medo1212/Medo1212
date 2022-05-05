@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohamed@mohamedmaged.com**
 
-- 📄 Know about my experiences [../../../www.mohamedmaged.com/#about](www.mohamedmaged.com/#about)
+- 📄 Know about my experiences [www.mohamedmaged.com/#about](../../../www.mohamedmaged.com/#about)
 
 - ⚡ Fun fact **I can make you laugh until you die**
 
